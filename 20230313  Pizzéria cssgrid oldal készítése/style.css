@@ -1,0 +1,67 @@
+.container{
+    
+}
+
+body{
+    background-image: url(kepek/background.jpeg);
+    background-size: cover;
+
+}
+
+
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: linear-gradient(rgb(160, 67, 67),rgb(117, 62, 62));
+    
+
+  }
+
+  .li1{
+    padding-left: 190px;
+  }
+  
+  .li {
+    float: left;
+  }
+  
+  .li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .li a:hover {
+    background-color: #111;
+  }
+
+  li{
+    font-size: 30px;
+    color: white;
+  }
+
+  .face{
+    font-size: 30px;
+    color: white;
+  }
+
+  .box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    filter: blur(3px);
+  }
+
+  .kep1{
+    width: 1500px;
+    height: 800px;
+  }
+
+
+  
+
